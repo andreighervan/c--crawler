@@ -1,0 +1,10 @@
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\bin\Debug\ThePirateBayCrawlerBot.exe.config
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\bin\Debug\ThePirateBayCrawlerBot.exe
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\bin\Debug\ThePirateBayCrawlerBot.pdb
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\obj\Debug\ThePirateBayCrawlerBot.csprojResolveAssemblyReference.cache
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\obj\Debug\ThePirateBayCrawlerBot.Form1.resources
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\obj\Debug\ThePirateBayCrawlerBot.Properties.Resources.resources
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\obj\Debug\ThePirateBayCrawlerBot.csproj.GenerateResource.Cache
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\obj\Debug\ThePirateBayCrawlerBot.csproj.CoreCompileInputs.cache
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\obj\Debug\ThePirateBayCrawlerBot.exe
+D:\ASP.NET App\TorrentzCrawlerBot\ThePirateBayCrawlerBot\ThePirateBayCrawlerBot\obj\Debug\ThePirateBayCrawlerBot.pdb
